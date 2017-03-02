@@ -1,0 +1,24 @@
+.Card {
+  width: 300px;
+  height: 300px;
+  margin: 1rem;
+  overflow-y: hidden;
+  padding:10px;
+}
+
+.CardTitle {
+  font-weight: 300;
+}
+
+.ClickableBlogCard {
+  cursor: pointer;
+  transition: all .2s ease-in-out;
+}
+
+.ClickableBlogCard:hover {
+  transform: scale(1.05);
+}
+
+a {
+  text-decoration: none;
+}

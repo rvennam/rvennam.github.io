@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Bluemix Blog",
+    "url": "https://www.ibm.com/blogs/bluemix/author/rvennamus-ibm-com/",
+    "imageSrc": "/BluemixBlog.png"
+  },
+  {
+    "title": "StackOverFlow",
+    "url": "http://stackoverflow.com/users/3666413/ram-vennam",
+    "imageSrc": "/SO.png"
+  },
+  {
+    "title": "Logistics Wizard",
+    "url": "https://logistics-wizard.mybluemix.net",
+    "imageSrc": "/LW.png"
+  },
+  {
+    "title": "Microservices on Bluemix",
+    "url": "https://www.ibm.com/blogs/bluemix/2017/02/microservices-multi-compute-approach-using-cloud-foundry-openwhisk/",
+    "imageSrc": "/LW_Arch.png"
+  },
+  {
+    "title": "Cloud Foundry, OpenWhisk or Containers",
+    "url": "https://www.ibm.com/blogs/bluemix/2015/08/bluemix-openwhisk-cloud-foundry-containers-virtual-servers/",
+    "imageSrc": "/computeOptions.png"
+  },
+  {
+    "title": "Getting Started Guides",
+    "url": "https://ibm.biz/Bds7Us",
+    "imageSrc": "https://www.ibm.com/blogs/bluemix/wp-content/uploads/2017/02/GettingStarted.gif"
+  },
+  {
+    "title": "Demo to Ginni",
+    "imageSrc": "/ginni.jpg"
+  },
+  {
+    "title": "Keynote Presentation",
+    "imageSrc": "/keynote.jpg"
+  },
+  {
+    "title": "Instagram",
+    "imageSrc": "/instagram.png",
+    "url":"https://www.instagram.com/favoriteflipflops/"
+  },
+  {
+    "title": "Hybrid Cloud Enterprise Transformation",
+    "imageSrc": "https://img.youtube.com/vi/7OLkIGoBpi0/0.jpg",
+    "url":"https://www.youtube.com/watch?v=7OLkIGoBpi0"
+  },
+  {
+    "title": "S2000",
+    "imageSrc": "/s2000.jpg",
+    "url": "https://docs.google.com/document/d/1-PcAkk1jlWpR6lFjBr-304L4YQYCvgSFykkM6LZ_HzI/edit?usp=sharing"
+  },
+  {
+    "title": "Microservices Redbook",
+    "imageSrc": "redbook.jpg",
+    "url": "https://play.google.com/store/books/details/Shahir_Daya_Microservices_from_Theory_to_Practice?id=eOZyCgAAQBAJ"
+  }
+]
