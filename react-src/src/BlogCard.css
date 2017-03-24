@@ -27,7 +27,6 @@ a {
 /* Portrait */
 @media only screen and (max-width: 680px) {
     .Card {
-      width: 100%;
       margin: 0px;
       margin-bottom: 1rem;
     }
