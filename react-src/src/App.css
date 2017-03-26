@@ -16,7 +16,7 @@ body {
   text-shadow: 2px 2px 2px #000;
   position: absolute;
   z-index:100;
-  top: 40px;
+  top: 30px;
   margin-left: auto;
   margin-right: auto;
   left: 0;
@@ -26,7 +26,6 @@ body {
 .App-header h1 {
   font-size: 3rem;
   font-weight: 400;
-
 }
 
 .App-header h3 {
@@ -36,11 +35,29 @@ body {
 
 .bannerContainer {
   background-color: black;
+  overflow: hidden;
 }
-.bannerSlider {
-  height: 250px;
+.bannerImg {
   margin: auto;
-
+  max-height: 250px;
+}
+@media (max-width: 600px) {
+  .App-header h1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+  }
+  .App-header h3 {
+    font-size: .5rem;
+    font-weight: 400;
+  }
+  .bannerContainer {
+    background-color: black;
+    overflow: hidden;
+  }
+  .bannerImg {
+    height: 120px;
+    margin: auto;
+  }
 }
 .CardContainer {
   display:flex;

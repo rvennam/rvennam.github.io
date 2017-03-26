@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './BlogCard.css';
-import {Card, CardHeader, CardMedia, CardTitle, CardText} from 'material-ui/Card';
+import {Card, CardMedia, CardTitle} from 'material-ui/Card';
 
 var styles = {
   title:{
@@ -16,9 +16,9 @@ class BlogCard extends Component {
   render() {
     return (
       <Card className="Card">
-        <CardTitle title={this.props.blog.title} className="CardTitle" style = {styles.cardTitle} titleStyle={styles.title}/>
+        <CardTitle title={this.props.blog.title} className="CardTitle" style={styles.cardTitle} titleStyle={styles.title}/>
         <CardMedia>
-            <img src={this.props.blog.imageSrc} />
+            <img src={this.props.blog.imageSrc} role="presentation"/>
         </CardMedia>
       </Card>
     );
