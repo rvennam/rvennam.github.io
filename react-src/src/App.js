@@ -6,7 +6,7 @@ import ClickableBlogCard from './ClickableBlogCard.js'
 var data = require('./blogData.json');
 var Slider = require('react-slick');
 
-class App extends Component {
+export class App extends Component {
 
   selectBlog(blog){
     var bc;
@@ -28,12 +28,15 @@ class App extends Component {
     return (
       <MuiThemeProvider >
         <div className="App">
-          <Slider {...settings}>
+          {/* <Slider {...settings}>
             {data.banner.map((imgSrc) => <div className="bannerContainer" key={imgSrc}>
               <img className="bannerImg" src={imgSrc} role="presentation" />
             </div>)
             }
-          </Slider>
+          </Slider> */}
+          <div className="bannerContainer">
+            <img className="bannerImg" src="rvennam_banner2.jpg" role="presentation" />
+          </div>
           <div className="App-header">
             <h1>Ram Vennam</h1>
             <h3>Developer Advocate</h3>

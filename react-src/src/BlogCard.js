@@ -4,7 +4,7 @@ import {Card, CardMedia, CardTitle} from 'material-ui/Card';
 
 var styles = {
   title:{
-    fontSize: "18px",
+    fontSize: "16px",
     lineHeight:"25px"
   },
   cardTitle:{
