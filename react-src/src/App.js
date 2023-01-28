@@ -39,8 +39,9 @@ export class App extends Component {
           </div>
           <div className="App-header">
             <h1>Ram Vennam</h1>
-            <h3>Developer Advocate</h3>
+
           </div>
+          <p className="aboutme">I am currently the Director of Field Engineering at Solo.io where I help companies design and build highly scalable, resilient, distributed systems with the latest cloud-native technology. Previously, I was at IBM where I was a Technical Product Manager and Developer Advocate for all things Kubernetes and Istio. I also served as a Steering Committee member on the Istio project for two years.</p>
 
           <div className="CardContainer">
           {data.blogs.map(this.selectBlog)}
