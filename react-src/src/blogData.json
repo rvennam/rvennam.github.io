@@ -7,6 +7,16 @@
       "imageSrc": "/what_is_istio.png"
     },
     {
+      "title": "Video: Istio Ambient Mesh - Ditch the Sidecar!",
+      "url": "https://www.youtube.com/watch?v=bbfiYMzHtH0&t=9s",
+      "imageSrc": "/isito-ambient-mesh.jpg"
+    },
+    {
+      "title": "KubeCon: Kubernetes Multi-Cluster Networking",
+      "url": "https://www.youtube.com/watch?v=bbfiYMzHtH0&t=9s",
+      "imageSrc": "/kubecon-mc.jpg"
+    },
+    {
       "title": "Highlight: Kubernetes Family",
       "url": "https://developer.ibm.com/blogs/open-innovation-stories-vennam-kubernetes/",
       "imageSrc": "/vennam-family.jpeg"
