@@ -41,7 +41,7 @@ export class App extends Component {
             <h1>Ram Vennam</h1>
 
           </div>
-          <p className="aboutme">Solutions engineer with extensive expertise in Kubernetes, Istio Service Mesh, API gateways, and cloud-native technologies. Specializes in designing scalable, resilient architectures and delivering tailored solutions to complex customer challenges. Proven ability to lead technical engagements, align technical capabilities with business objectives, and drive adoption of cloud-native technologies. Passionate advocate for CNCF projects, leveraging thought leadership to accelerate innovation and industry-wide adoption.</p>
+          <p className="aboutme">Solutions Engineer with extensive expertise in Kubernetes, Istio Service Mesh, API gateways, and cloud native technologies, specializing in designing and deploying large scale, resilient, distributed architectures. Proven ability to lead technical sales engagements, delivering tailored solutions to customer challenges, and collaborating with cross-functional teams to drive innovative product development. Passionate advocate for CNCF projects, leveraging strategic speaking engagements and technical expertise to accelerate cloud native adoption and foster industry wide innovation.</p>
 
           <div className="CardContainer">
           {data.blogs.map(this.selectBlog)}
