@@ -8,12 +8,17 @@
     },
     {
       "title": "Video: Istio Ambient Mesh - Ditch the Sidecar!",
-      "url": "https://www.youtube.com/watch?v=bbfiYMzHtH0&t=9s",
+      "url": "https://www.youtube.com/live/bbfiYMzHtH0?si=_HGmu1RAj6YwN_X7&t=780",
       "imageSrc": "/isito-ambient-mesh.jpg"
     },
     {
+      "title": "Incremental Multi-Cluster Adoption",
+      "url": "https://youtu.be/94vhMLqMqbI?si=i7LSL_A6xeZyEEDk&t=302",
+      "imageSrc": "/incremental-mc.jpg"
+    },
+    {
       "title": "KubeCon: Kubernetes Multi-Cluster Networking",
-      "url": "https://www.youtube.com/watch?v=bbfiYMzHtH0&t=9s",
+      "url": "https://youtu.be/cpkKinqdwqA?si=fOTMZMM8lzhnIaza&t=233",
       "imageSrc": "/kubecon-mc.jpg"
     },
     {
